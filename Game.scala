@@ -19,7 +19,4 @@ class Game {
 
   def isLost = obstacle.touches(bug) || !bug.isInBounds
 
-  // Your code goes here. Please add only what is requested by the ebook. To avoid
-  // confusing our automatic assessment system, please don't invent additions of your own
-  // here (at least not until you're done with the ebook’s official FlappyBug assignments).
 }
