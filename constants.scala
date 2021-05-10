@@ -2,7 +2,6 @@ package o1
 
 object constants {
 
-  // This singleton object contains constants that help define the rules of FlappyBug
 
   val ObstacleSpeed = 10
   val FallingSpeed = 2
@@ -12,6 +11,5 @@ object constants {
   val GroundDepth = 50
   val BackgroundShift = 2
 
-  // You can define your own constants here.
 
 }
