@@ -2,7 +2,6 @@ package o1
 
 import constants._
 
-// This class is introduced in Chapter 2.7.
 
 object FlappyBugApp extends App {
 
@@ -21,7 +20,6 @@ object FlappyBugApp extends App {
   def rockPic(obstacle: Obstacle) = circle(obstacle.radius * 2, Black)
 
 
-  // INSERT YOUR OWN CODE BELOW.
 
   val game = new Game()
 
